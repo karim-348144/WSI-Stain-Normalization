@@ -1,0 +1,18 @@
+{
+  "created_utc": "2026-03-05T10:10:49.453680Z",
+  "images_root": "/work/h2020deciderficarra_shared/TCGA/BRCA/images",
+  "clinical": "/work/h2020deciderficarra_shared/TCGA/docs/combined_study_clinical_data.tsv",
+  "seed": 42,
+  "ratios": {
+    "train": 0.7,
+    "val": 0.15,
+    "test": 0.15
+  },
+  "time_bins": 8,
+  "min_patches": 1,
+  "slides_scanned": 1121,
+  "slides_parsed_tcga": 1121,
+  "slides_matched_clinical": 1037,
+  "patients": 1037,
+  "events": 146
+}

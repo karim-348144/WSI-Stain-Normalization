@@ -1,0 +1,14 @@
+{
+  "split_type": "unseen_center_holdout",
+  "test_tss": "BH",
+  "val_tss": "A2",
+  "train_tss_count": 36,
+  "val_tss_count": 1,
+  "test_tss_count": 1,
+  "train_n": 792,
+  "val_n": 99,
+  "test_n": 141,
+  "events_train": 86,
+  "events_val": 15,
+  "events_test": 45
+}
