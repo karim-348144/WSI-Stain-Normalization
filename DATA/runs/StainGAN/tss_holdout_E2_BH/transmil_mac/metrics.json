@@ -1,0 +1,19 @@
+{
+  "model_name": "transmil",
+  "feat_root": "/homes/smdaniyal/stain_norm/features/macenko_uni_256",
+  "split_dir": "/homes/smdaniyal/stain_norm/splits/brca_tss_holdout_E2_BH",
+  "seed": 42,
+  "in_dim": 1024,
+  "train_n": 809,
+  "val_n": 141,
+  "test_n": 82,
+  "hidden_dim": 256,
+  "max_patches": 256,
+  "lr": 1e-05,
+  "weight_decay": 0.0001,
+  "grad_clip": 1.0,
+  "best_epoch": 45,
+  "best_val_cindex": 0.6429712460063898,
+  "test_cindex": 0.6979166666666666,
+  "test_risk_std": 0.44327303767204285
+}

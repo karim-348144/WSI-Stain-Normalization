@@ -1,0 +1,19 @@
+{
+  "model_name": "abmil",
+  "feat_root": "/homes/wdkarim/features/reinhard_uni_all",
+  "split_dir": "/homes/wdkarim/splits/brca_tss_holdout_A2_E2",
+  "seed": 42,
+  "in_dim": 1024,
+  "train_n": 851,
+  "val_n": 82,
+  "test_n": 99,
+  "hidden_dim": 256,
+  "max_patches": 256,
+  "lr": 1e-05,
+  "weight_decay": 0.0001,
+  "grad_clip": 1.0,
+  "best_epoch": 98,
+  "best_val_cindex": 0.5,
+  "test_cindex": 0.6823671497584541,
+  "test_risk_std": 0.19015607237815857
+}

@@ -1,0 +1,4 @@
+stain_condition,n_slides_total,n_slides_used,n_tss_total,n_tss_used,embedding_dim,silhouette_tss,knn_tss_acc_mean,knn_tss_acc_std,knn_neighbors,cv_folds,min_samples_per_tss
+raw,1032.0,1024.0,38.0,30.0,1024.0,0.00028587138531440976,0.693359375,0.02209708691207961,5.0,2.0,2.0
+macenko,1032.0,1024.0,38.0,30.0,1024.0,-0.06300974733134342,0.49609375,0.0027621358640099515,5.0,2.0,2.0
+delta_macenko_minus_raw,,,,,,-0.06329561871665783,-0.197265625,-0.01933495104806966,,,

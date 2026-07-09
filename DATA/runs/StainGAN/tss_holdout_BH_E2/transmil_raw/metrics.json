@@ -1,0 +1,19 @@
+{
+  "model_name": "transmil",
+  "feat_root": "/work/ai4bio2025/stain_norm/features/raw_uni",
+  "split_dir": "/homes/smdaniyal/stain_norm/splits/brca_tss_holdout_BH_E2",
+  "seed": 42,
+  "in_dim": 1024,
+  "train_n": 809,
+  "val_n": 82,
+  "test_n": 141,
+  "hidden_dim": 256,
+  "max_patches": 256,
+  "lr": 1e-05,
+  "weight_decay": 0.0001,
+  "grad_clip": 1.0,
+  "best_epoch": 100,
+  "best_val_cindex": 0.5833333333333334,
+  "test_cindex": 0.7264376996805112,
+  "test_risk_std": 1.0796564817428589
+}
